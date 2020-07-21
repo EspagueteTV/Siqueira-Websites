@@ -137,10 +137,7 @@ p
     transition: font-size .2s;
 }
 
-.header-site h1:hover 
-{
-    font-size: 100px /* tamnho da fonte */
-} 
+
 
 .header-site p
 {
