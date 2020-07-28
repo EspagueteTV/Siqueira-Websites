@@ -3,6 +3,6 @@ Código fonte do site sobre "A História dos Computadores", desenvolvido no ano 
 
 Para o desenvolvimento deste site, foram utilizados as seguintes Tecnologias:
 
-    * HTML 5 
-    * Css 3
-    * Bootstrap 4 
+    ** HTML 5 **
+    ** Css 3 **
+    ** Bootstrap 4 **
